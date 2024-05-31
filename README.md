@@ -1,6 +1,8 @@
 # Hi👋, I'm Leonard Zonaphan
 **Ex-Blibli | Computer Science Fresh Graduate from BINUS University**
 
+Currently, I'm learning GoLang to expand my skill set and explore new opportunities.
+
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lezonmail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonard-zonaphan)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Lezonn)
