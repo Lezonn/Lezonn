@@ -1,5 +1,5 @@
 # Hi👋, I'm Leonard Zonaphan
-**Ex-Blibli | Computer Science Fresh Graduate from BINUS University**
+**Computer Science Fresh Graduate from BINUS University with 2 years experience in software development**
 
 Currently, I'm learning GoLang to expand my skill set and explore new opportunities.
 
