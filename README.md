@@ -1,11 +1,9 @@
 # Hi👋, I'm Leonard Zonaphan
-**Bachelor of Computer Science from Bina Nusantara University with 2 years experience in software development**. Currently, I'm automating enterprise scale repetitive business process in PT Astra International - Toyota Sales Operation by using UiPath.
+**Bachelor of Computer Science from Bina Nusantara University with 3 years experience in software development**. Currently, I'm handling AI initiative and automating enterprise scale repetitive business process in PT Astra International - Toyota Sales Operation.
 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lezonmail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonard-zonaphan)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Lezonn)
-
-![Top Languages](https://github-readme-stats-two-kappa-42.vercel.app/api/top-langs/?username=Lezonn&layout=compact&theme=tokyonight&langs_count=8)
 
 ## Skills
 Here are some technologies I am familiar with:
