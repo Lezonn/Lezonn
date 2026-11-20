@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonard Zonaphan</h1>
-<h3 align="center">AI & Automation Engineer · Building enterprise AI and RPA at PT Astra International – Toyota Sales Operation (AUTO2000)</h3>
+<h3 align="center">AI Product Manager & Automation Engineer · Building enterprise AI and RPA at PT Astra International – Toyota Sales Operation (AUTO2000)</h3>
 
 <p align="center">
   <a href="mailto:lezonmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Mail"/></a>
