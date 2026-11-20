@@ -16,7 +16,7 @@ I turn repetitive enterprise processes into automated, AI-assisted workflows —
 - 🤖 Leading **AI initiatives**: customer-experience chatbot (LLM evaluation → deployment) and AI-generated dashboard summaries
 - ⚙️ Automating business processes with **UiPath RPA** and **n8n**
 - 📊 Building **Power BI** dashboards for branch-level operations
-- 🎮 On the side: indie game dev with **Godot** and self-hosted AI agents
+- 🎮 On the side: end-to-end barbershop business digitalization and self-hosted AI agents
 - 🌱 Interested in **EV & digital manufacturing**
 
 ---
