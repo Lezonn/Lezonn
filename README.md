@@ -17,16 +17,16 @@ I turn repetitive enterprise processes into automated, AI-assisted workflows —
 - ⚙️ Automating business processes with **UiPath RPA** and **n8n**
 - 📊 Building **Power BI** dashboards for branch-level operations
 - 🎮 On the side: end-to-end barbershop business digitalization and self-hosted AI agents
-- 🌱 Interested in **EV & digital manufacturing**
+- 🌱 Highly Interested in **AI & New Tech**
 
 ---
 
 ## 🚀 What I Work On
 | Area | Highlights |
 |---|---|
-| **AI / LLM** | Chatbot development, model evaluation, AI agents, prompt & workflow design |
-| **Automation** | UiPath RPA (lead matching, data reconciliation), n8n workflows |
-| **Data** | Power BI dashboards, SQL Server |
+| **AI / LLM** | Chatbot development, RAG, model evaluation, AI agents, prompt & workflow design |
+| **Automation** | UiPath RPA, n8n workflows |
+| **Data** | Power BI dashboards, SQL, MongoDB |
 | **Web Apps** | Laravel, Vue, React + TypeScript, Spring Boot |
 
 ---
@@ -62,7 +62,7 @@ I turn repetitive enterprise processes into automated, AI-assisted workflows —
 ---
 
 ## 📫 Let's Connect
-Open to chatting about **AI in enterprise, automation, or EV/manufacturing tech**.
+Open to chatting about **AI in enterprise, automation, and digitalization**.
 
 - 📧 [lezonmail@gmail.com](mailto:lezonmail@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/leonard-zonaphan)
